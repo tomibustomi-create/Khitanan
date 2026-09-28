@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "khitanan-arfan.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "khitanan-arfan.vercel",
+  "start_url": "/",
+  "theme_color": "#16a34a"
+}
